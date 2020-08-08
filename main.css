@@ -1,0 +1,37 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #E8F1F2;
+}
+
+.nav ul {
+    background-color: #13293D;
+	margin:0;
+	padding:10px;
+    list-style:none;
+    width: 99%;
+	float:left;
+	height: 50px;
+}
+
+.nav ul li {
+    float: right;
+    padding: 10px 10px;
+    color: #E8F1F2;
+}
+
+.nav ul li:hover{
+    color: #1B98E0;
+}
+
+.main-content {
+    padding: 10px 15px;
+    margin: 0;
+    float: left;
+}
