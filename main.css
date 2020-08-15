@@ -13,11 +13,11 @@ body {
 
 .nav ul {
     background-color: #13293D;
-	margin:0;
-	padding:10px;
+    margin:0;
+    padding:10px;
     list-style:none;
     width: 99%;
-	height: 50px;
+    height: 50px;
 }
 
 .nav ul li {
