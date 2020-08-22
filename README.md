@@ -3,4 +3,4 @@
 Created to show off my skills as a Front-End Developer. Viewable at [mward2.github.io](mward2.github.io)
 
 ### Tech Stack
-Plain HTML and CSS (As of August 21st, 2020).
+Plain HTML and CSS for development. GitHub Pages for deployment.
