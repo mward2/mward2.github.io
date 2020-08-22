@@ -14,15 +14,15 @@ body {
 .nav ul {
     background-color: #13293D;
     margin:0;
-    padding:10px;
+    padding: 5px 0px 5px 10px;
     list-style:none;
-    width: 99%;
+    width: (100% - 10px);
     height: 50px;
 }
 
 .nav ul li {
     float: left;
-    height: 30px;
+    height: 20px;
     padding: 10px 10px;
 }
 
@@ -47,13 +47,55 @@ body {
     display: inline-block;
 }
 
+.master-button{
+    background-color: #13293D;
+    color: white;
+    height: 30px;
+    width: 110px;
+    border-radius: 5px;
+}
+
+.master-button:hover{
+    color: #1B98E0;
+}
+
 .headshot {
     float: right;
     height: 300px;
     width: 300px;
 }
 
-.headerMW{
-    height: 30px;
-    width: 30px;
+.headerMW {
+    height: 20px;
+    width: 20px;
+}
+
+.about-header {
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+}
+
+.exp-box{
+    margin: 20px 0px;
+}
+
+.resume-info h3 {
+    margin: 5px 0px;
+}
+
+.resume-info h4 {
+    margin: 2px 0px;
+}
+
+.resume-info h6{
+    margin: 2px 0px;
+}
+
+.resume-info ul {
+    margin: 10px 0px;
+}
+
+.parts-database {
+    width: 100%;
 }
