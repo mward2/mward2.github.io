@@ -11,6 +11,17 @@ body {
     background-color: #E8F1F2;
 }
 
+a {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: #E8F1F2;
+}
+
+a:hover {
+    color: #1B98E0;
+}
+
 .nav ul {
     background-color: #13293D;
     margin:0;
